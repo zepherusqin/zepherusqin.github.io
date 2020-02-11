@@ -841,6 +841,7 @@ if(canvas.getContext){
   <span class="post-count"> | 博客全站共1.7k字</span>
 </div>
 <!-- 网站运行时间的设置 -->
+<span id="timeDate"></span><span id="times"></span>
 <script>
     var now = new Date(); 
     function createtime() { 
@@ -854,7 +855,7 @@ if(canvas.getContext){
         snum = Math.round(seconds); if(String(snum).length ==1 ){snum = "0" + snum;} 
         document.getElementById("timeDate").innerHTML = " | 网站已安全运行 "+dnum+" 天 "; 
     } 
-setInterval("createtime()",250);
+    setInterval("createtime()",250);
 </script>
 
         

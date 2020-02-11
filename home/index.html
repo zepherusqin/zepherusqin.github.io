@@ -772,10 +772,9 @@ if(canvas.getContext){
 
 <div class="theme-info">
   <div class="powered-by"></div>
-  <span class="post-count">博客全站共1.7k字</span>
+  <span class="post-count"> | 博客全站共1.7k字</span>
 </div>
 <!-- 网站运行时间的设置 -->
-<span id="timeDate">载入天数...</span><span id="times">载入时分秒...</span>
 <script>
     var now = new Date(); 
     function createtime() { 
@@ -787,7 +786,7 @@ if(canvas.getContext){
         mnum = Math.floor(minutes); if(String(mnum).length ==1 ){mnum = "0" + mnum;} 
         seconds = (now - grt ) / 1000 - (24 * 60 * 60 * dnum) - (60 * 60 * hnum) - (60 * mnum); 
         snum = Math.round(seconds); if(String(snum).length ==1 ){snum = "0" + snum;} 
-        document.getElementById("timeDate").innerHTML = " 网站已安全运行 "+dnum+" 天 "; 
+        document.getElementById("timeDate").innerHTML = " | 网站已安全运行 "+dnum+" 天 "; 
     } 
 setInterval("createtime()",250);
 </script>

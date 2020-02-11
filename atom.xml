@@ -5,9 +5,9 @@
   <subtitle>画船听雨眠，垆边人似月</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://www.zepherus.top/"/>
   <updated>2020-02-11T03:28:09.743Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://www.zepherus.top/</id>
   
   <author>
     <name>Zephyrus</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Linux基本指令</title>
-    <link href="http://yoursite.com/2020/02/09/Linux%E5%9F%BA%E6%9C%AC%E6%8C%87%E4%BB%A4/"/>
-    <id>http://yoursite.com/2020/02/09/Linux%E5%9F%BA%E6%9C%AC%E6%8C%87%E4%BB%A4/</id>
+    <link href="http://www.zepherus.top/2020/02/09/Linux%E5%9F%BA%E6%9C%AC%E6%8C%87%E4%BB%A4/"/>
+    <id>http://www.zepherus.top/2020/02/09/Linux%E5%9F%BA%E6%9C%AC%E6%8C%87%E4%BB%A4/</id>
     <published>2020-02-09T14:19:07.000Z</published>
     <updated>2020-02-11T03:28:09.743Z</updated>
     
@@ -36,14 +36,14 @@
     
     
     
-      <category term="Linux" scheme="http://yoursite.com/tags/Linux/"/>
+      <category term="Linux" scheme="http://www.zepherus.top/tags/Linux/"/>
     
   </entry>
   
   <entry>
     <title>2020,你好</title>
-    <link href="http://yoursite.com/2020/01/01/2020-%E4%BD%A0%E5%A5%BD/"/>
-    <id>http://yoursite.com/2020/01/01/2020-%E4%BD%A0%E5%A5%BD/</id>
+    <link href="http://www.zepherus.top/2020/01/01/2020-%E4%BD%A0%E5%A5%BD/"/>
+    <id>http://www.zepherus.top/2020/01/01/2020-%E4%BD%A0%E5%A5%BD/</id>
     <published>2020-01-01T14:19:07.000Z</published>
     <updated>2020-02-11T03:27:40.085Z</updated>
     
@@ -60,7 +60,7 @@
     
     
     
-      <category term="Emotion" scheme="http://yoursite.com/tags/Emotion/"/>
+      <category term="Emotion" scheme="http://www.zepherus.top/tags/Emotion/"/>
     
   </entry>
   

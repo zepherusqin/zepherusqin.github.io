@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-22T07:52:08.751Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="uYJWMgWcCbM5hxcNk7Qj" version="15.7.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-11-22T07:52:39.575Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="iaUclo6ccR7zTOMktM40" version="15.7.4" type="github" pages="5">
   <diagram id="Ag_8VVEDBAMMKNga9vtT" name="Page-1">
     <mxGraphModel dx="1422" dy="785" grid="0" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -625,11 +625,20 @@
       <root>
         <mxCell id="uyyqZBlVbnJdKII91fFB-0" />
         <mxCell id="uyyqZBlVbnJdKII91fFB-1" parent="uyyqZBlVbnJdKII91fFB-0" />
+        <mxCell id="uyyqZBlVbnJdKII91fFB-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="uyyqZBlVbnJdKII91fFB-1" source="uyyqZBlVbnJdKII91fFB-2" target="uyyqZBlVbnJdKII91fFB-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uyyqZBlVbnJdKII91fFB-2" value="&lt;b&gt;Data preparation&lt;/b&gt;&lt;br&gt;Data dimension selection&lt;br&gt;Pre-processing&lt;br&gt;Data augmentation&lt;br&gt;..." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="uyyqZBlVbnJdKII91fFB-1">
           <mxGeometry x="50" y="280" width="140" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="uyyqZBlVbnJdKII91fFB-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="uyyqZBlVbnJdKII91fFB-1" source="uyyqZBlVbnJdKII91fFB-6" target="uyyqZBlVbnJdKII91fFB-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uyyqZBlVbnJdKII91fFB-6" value="&lt;b&gt;Network architecture&lt;/b&gt;&lt;br&gt;CNN-based&lt;br&gt;FCC-based&lt;br&gt;ResNet&lt;br&gt;DenseNet&lt;br&gt;..." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="uyyqZBlVbnJdKII91fFB-1">
           <mxGeometry x="220" y="280" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="uyyqZBlVbnJdKII91fFB-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="uyyqZBlVbnJdKII91fFB-1" source="uyyqZBlVbnJdKII91fFB-7" target="uyyqZBlVbnJdKII91fFB-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uyyqZBlVbnJdKII91fFB-7" value="&lt;b&gt;Fusion Strategy&lt;br&gt;&lt;/b&gt;Input-level&lt;br&gt;Layer-level&lt;br&gt;Decision-level&lt;br&gt;..." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="uyyqZBlVbnJdKII91fFB-1">
           <mxGeometry x="390" y="280" width="140" height="90" as="geometry" />
